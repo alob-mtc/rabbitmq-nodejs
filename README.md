@@ -22,8 +22,8 @@
 
 ```
 ## Task
-1. [] - complete the official docs
-1. [] - create a mini project(__test out my understanding of the docs and tutorials__)
+1. [x] - complete the official docs
+1. [x] - create a mini project(__test out my understanding of the docs and tutorials__)
 
 ## Project
 
