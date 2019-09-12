@@ -7,8 +7,8 @@ const amqp = require('amqplib/callback_api');
 const credentials = {
     protocol: 'amqp',
     hostname: 'localhost',
-    username: 'alob_mtc',
-    password: 'alob_mtc',
+    username: 'username',
+    password: 'password',
     locale: 'en_US',
     frameMax: 0,
     heartbeat: 0,
